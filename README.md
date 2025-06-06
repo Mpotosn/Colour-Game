@@ -1,4 +1,4 @@
-# Color Game (Python + Tkinter)
+# Color Game 
 This is a simple color recognition typing game built using Python and Tkinter. The player must type the name of the color in which a word is displayed (not the word itself) within a time limit, testing their focus and reaction speed.
 
 # Features
